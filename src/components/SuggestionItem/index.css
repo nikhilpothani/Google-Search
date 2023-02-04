@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.results-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.link-logo {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.result-text {
+  font-family: 'Roboto';
+  color: #475569;
+}
